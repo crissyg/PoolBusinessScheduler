@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PoolBusinessScheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt1">New Customer</string>
+    <string name="bt2">List All Customer</string>
+    <string name="bt3">View A Customer</string>
+    <string name="bt4">Edit A Customer</string>
+    <string name="bt5">Delete A Customer</string>
+    <string name="bt6">Today Schedule</string>
+    <string name="lname">Name</string>
+    <string name="laddress">Address</string>
+    <string name="lcity">City</string>
+    <string name="lstate">State</string>
+    <string name="lzip">Zip</string>
+    <string name="lemail">Email</string>
+    <string name="lphone">Phone</string>
+    <string name="ldate">Date</string>
+    <string name="ltime">Time</string>
+    <string name="lprice">Price</string>
+    <string name="linfo">Pool info</string>
+    <string name="ltitle">New Customer</string>
+    
+<string name="regex_email">^([^@\\s]+)@((?:[-a-z0-9]+\\.)+[a-z]{2,})$</string>
+<string name="regex_phone">^\\(?\\d{3}[\\)?|-]\\d{3}[- ]\\d{4}((\\s=?)(ext\\.|x)\\d{1,4})?$</string>
+<string name="regex_postal_code">^\\d{5}(-\\d{4})?$</string>
+
+</resources>

@@ -13,10 +13,10 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: | 
-                      👋 Hi! Thank you for reporting your first issue. To help us resolve it efficiently, 
+                      👋 Hi! Thank you for reporting your first issue. To help me resolve it efficiently, 
                       please consider including: steps to reproduce, your environment (OS, version), and any relevant error messages. 
                       If you have any further information, feel free to add it in the comments!.
         pr-message: | 
                     🎉 Congratulations on your first pull request to this repository! 
-                    We're excited to see your contribution. Please ensure your PR follows our contributing guidelines. 
-                    We'll review it carefully and provide feedback.
+                    I'm excited to see your contribution. Please ensure your PR follows our contributing guidelines. 
+                    I will review it carefully and provide feedback.
